@@ -1,0 +1,7 @@
+https://ngrok.com/docs/getting-started
+
+跑一下这个流程.
+
+token:
+
+ngrok config add-authtoken 2JLq5O6hEwAeTekrSjBSslTy5ML_2BevAgkzrcdee2JvSwwyZ
